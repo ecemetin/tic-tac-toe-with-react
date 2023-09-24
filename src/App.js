@@ -1,6 +1,6 @@
 function Square({value}) {
   return 
-    <button className="square">value</button>;
+    <button className="square">{value}</button>;
 }
 
 
